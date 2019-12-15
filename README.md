@@ -1,6 +1,6 @@
 # DialogDQN-Variants
 
-Code of “Dialogue environments are different from games: investigating variants of deep q-networks for dialogue policy”
+Code of “Dialogue environments are different from games: investigating variants of deep q-networks for dialogue policy” (ASRU 2019)
 
 --- 
 ## Requirements
