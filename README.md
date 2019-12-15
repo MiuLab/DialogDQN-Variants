@@ -3,11 +3,10 @@
 Code of “Dialogue environments are different from games: investigating variants of deep q-networks for dialogue policy”
 
 --- 
-## Setup
+## Requirements
 
-python2
+python: 2.7
 
-#### requirement:
 ```
 pip install -r requirements.txt
 ```
@@ -15,6 +14,7 @@ pip install -r requirements.txt
 
 ## Train DQN Agent
 
+Movie-Ticket Booking domain
 `bash script/movie.sh`
 
 Restaurant Reservation domain:
